@@ -1,0 +1,12 @@
+O que é o padrão Conventional Commits?
+
+    O padrão Conventional Commits é uma forma de padronizar as atualizações do projeto de maneira organizada.
+    Ele facilita a geração de changelogs e melhora o controle de versionamento do sistema.
+
+Explique brevemente o que significam os prefixos: feat, fix, docs, style e refactor.
+
+Feat: utilizado para adicionar uma nova funcionalidade ao projeto.
+fix: utilizado para corrigir bugs ou erros no sistema.
+docs: utilizado para alterações na documentação do projeto.
+style: utilizado para mudanças visuais ou de formatação do código, sem alterar seu funcionamento.
+refactor: utilizado para reorganizar ou melhorar o código sem adicionar novas funcionalidades ou corrigir erros.
